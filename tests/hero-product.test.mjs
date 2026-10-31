@@ -108,7 +108,13 @@ test('refined trust slide uses small inline icons and keeps the source certifica
   assert.ok(cert.length>50000);
   assert.match(css,/ISO \+ Karnataka hero/);
   assert.match(css,/grid-template-columns:repeat\(2,minmax\(0,1fr\)\)/);
-  assert.match(css,/Harmonized ISO slide/);
+  assert.match(css,/MAGIX ISO \/ Option 02 — Wide Cinematic Split/);
+  assert.match(quality,/magix-iso-emblem-transparent\.png/);
+  assert.match(css,/background:transparent;border:0/);
+  assert.match(css,/Product imagery is photographed on white/);
+  assert.match(css,/\.category-card \.category-image,/);
+  assert.match(css,/\.product-card \.product-photo,/);
+  assert.match(css,/background:#fff;/);
   assert.doesNotMatch(css,/\.refined-trust-slide \{ display:none !important;/);
   assert.doesNotMatch(css,/\.slideshow-footer \{ display:none !important;/);
 });

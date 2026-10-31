@@ -91,7 +91,7 @@ function HomeHero(){
   </div>
   <div className="refined-trust-visual" aria-label="Magix ISO 9001:2015 certification and four cleaning commitments">
    <div className="refined-cert-header">
-    <a className="refined-iso-token" href="/Magix_ISO_9001_2015_Certificate.pdf" target="_blank" rel="noopener noreferrer" aria-label="View Magix ISO 9001:2015 certificate"><img src="/brand/magix-iso-emblem-crop.webp" alt="ISO 9001:2015 Certified"/></a>
+    <a className="refined-iso-token" href="/Magix_ISO_9001_2015_Certificate.pdf" target="_blank" rel="noopener noreferrer" aria-label="View Magix ISO 9001:2015 certificate"><img src="/brand/magix-iso-emblem-transparent.png" alt="ISO 9001:2015 Certified"/></a>
     <div className="refined-karnataka-claim"><span>First Company in</span><strong>KARNATAKA</strong><span>in Housekeeping Field to get</span><mark>an ISO 9001:2015</mark><span>Certification</span></div>
    </div>
    <div className="refined-tiny-benefits" aria-label="Magix cleaning commitments">
