@@ -1,0 +1,34 @@
+MAGIX NEXT.JS ROOT REPLACEMENT — READ BEFORE COPYING
+
+1. This ZIP has a folder named Magix_NextJS_ROOT_REPLACEMENT. Copy its CONTENTS into the root of your existing magixproducts_page Git working tree. Do NOT replace .git. Do not merge Vite/Cloudflare worker files into this application.
+2. On your CachyOS/Fish computer, make sure any current work is committed or safely backed up. Suggested commands:
+
+cd ~/Projects/Obblee/magixproducts_page
+git status
+git switch -c feature/magix-nextjs
+
+3. Extract this ZIP outside the repository, then copy its contents in using your file manager. If you prefer a shell, after extracting to ~/Downloads:
+
+cp -a ~/Downloads/Magix_NextJS_ROOT_REPLACEMENT/. ./
+
+4. If you have obsolete files from an older Vite/Cloudflare build (worker/, drizzle/, wrangler.jsonc, vite.config.ts, standalone src/main.tsx, etc.), remove those ONLY after confirming they are obsolete and not needed by your live repo. Do not delete .git.
+5. From the repository root, create .env.local from .env.example, fill MAGIX_ADMIN_* values. For production, configure all GITHUB_MAGIX_* variables inside Vercel. Never commit .env.local.
+6. Run:
+
+npm ci
+npm test
+npm run lint
+npm run build
+npm run dev
+
+7. Test the public site, admin login, upload, Apply changes and Open website. Inspect git status before committing:
+
+git add -A
+git diff --cached --stat
+git status
+git commit -m "Migrate Magix React website to Next.js with GitHub catalogue storage"
+git push -u origin feature/magix-nextjs
+
+8. Deploy a preview, test it with production-like secrets, and merge into main only once verified.
+
+NOTICE: The supplied main ZIP was only a snapshot, not verified against live GitHub. This package contains NO .git and NO tokens. It intentionally uses Next.js API routes (serverless), a private GitHub JSON file and uploaded image blobs instead of a separately hosted backend/database.

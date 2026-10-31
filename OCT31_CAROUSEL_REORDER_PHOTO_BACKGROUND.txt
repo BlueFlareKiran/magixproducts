@@ -1,0 +1,11 @@
+Magix carousel update — 31 October 2026
+
+Order:
+1. The Magix collection (original home hero)
+2. ISO 9001:2015 / Karnataka / Magix quality and trust (floating colorful feature widgets)
+3. Hero broom product — 90+ days indicative usage
+4. Plastic Clip Mop Colour — 70+ days indicative usage
+
+Slide two now shares the original /brand/home-banner.webp living-room photo, with a translucent gradient behind the text (lighter over the right-hand scene). This restores the photograph while retaining the bright typography, standalone certification badge and four colorful benefit tiles.
+
+Only src/MagixSite.tsx, app/premium.css, tests/hero-product.test.mjs and this note were edited relative to the previous ZIP. No catalogue, admin, certificate or contact files changed.

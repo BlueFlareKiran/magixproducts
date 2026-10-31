@@ -1,0 +1,28 @@
+Magix product image cleanup
+===========================
+
+What was updated:
+- Normalized 122 product image assets in public/products/.
+- Removed most visible catalogue background residue, faint page patterns, and thin top bars.
+- Re-centered products on consistent white square canvases for cleaner card/detail presentation.
+- Updated homepage category cards to use better representative product images instead of defaulting to the first item in each category.
+- Added CSS overrides so product images render without multiply blending.
+
+Files changed:
+- public/products/*.webp (122 product image assets normalized)
+- src/MagixSite.tsx
+- app/globals.css
+- scripts/normalize_product_images.py
+
+Homepage category representative images:
+- Mops -> /products/p04-1-2.webp
+- Grass Brooms -> /products/p06-1-1.webp
+- Kharata Brooms -> /products/p08-1-6.webp
+- Ceiling Brooms -> /products/p09-2-1.webp
+- Floor Wipers -> /products/p10-1-2.webp
+- Toilet Brushes -> /products/p13-2-2.webp
+- Miscellaneous -> /products/p17-1-4.webp
+
+Notes:
+- A few products in the original catalogue are shown as grouped variants or with pack shots, so those remain grouped where that presentation appears intentional.
+- The cleanup prioritizes a cleaner website presentation while preserving the original Magix product visuals as closely as possible.

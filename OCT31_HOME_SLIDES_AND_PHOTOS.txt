@@ -1,0 +1,10 @@
+MAGIX WEBSITE UPDATE — 31 OCTOBER 2026
+
+Additive changes only, based on previous 1991/10M/ISO/Instagram ZIP.
+
+Home carousel: four slides (original two preserved; new slide 3 Plastic Clip Mop Colour, code 429, and slide 4 supplied Karnataka ISO marketing artwork).
+Carousel controls and auto-play updated from 2 to 4 slides; original pause/hover/reduced-motion behavior retained.
+Header/footer/home cloud logo now references a copy of the cloud with circled R instead of TM. Original magix-cloud-tm.png remains untouched. Registered mark must be used only where registration is legally established.
+Products, About and Contact banners use three separate enhanced existing images; original images remain unchanged.
+No catalogue entries, product photos, admin/API routes, or pre-existing pages are removed.
+The supplied promotional graphic describes the company as first in Karnataka; this claim has not been independently verified.

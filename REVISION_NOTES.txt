@@ -1,0 +1,33 @@
+MAGIX WEBSITE – CORRECTED REVISION
+=================================
+
+Based on: magixproducts_page-second-pass.zip (NOT the misaligned premium update).
+
+1. Restored original website theme, header style, original layout foundation and existing product catalogue.
+2. Header now uses a yellow Magix cloud brand mark, not the old white script alone.
+3. Favicon is the yellow cloud brand mark only, without surrounding brooms/mops.
+4. Home hero is one compact, responsive 3-slide autoplay banner:
+   - Slide 1: original Magix artwork. Spokes (original brooms, mops, wipers) rotate slowly behind the stationary yellow cloud.
+   - Slide 2: broom-stick hero product and qualified 90+ days usage life.
+   - Slide 3: mop, wiper and brush product range.
+   - Slides rotate automatically every 6.5 seconds, with manual arrow and dot controls.
+5. Added a substantial dedicated /about page, grounded in the official supplied PDF catalogue.
+   - 32+ years of experience, founded around 1991, Bengaluru roots.
+   - Manufacturing/trading, retailer visits, sales and distribution, and product categories.
+   - No unverifiable 'No.1 in Bengaluru' ranking claim is asserted.
+6. Product cards subtly lift on hover. Clicking through to the product detail and then tapping the image opens a modal with a short motion effect; tap the image again to replay.
+7. Motion is reduced for visitors who set prefers-reduced-motion.
+8. Preserved existing 122 product photo assets from the second-pass cleanup and catalogue/data/admin functionality.
+
+Run locally:
+  npm install
+  npm run dev
+  http://localhost:3000
+
+Verification performed:
+  - TSX syntax transpilation: passed.
+  - Project's 10 Node tests: passed.
+  - All new image files exist and are valid.
+  - A full Next.js production build was not possible in this container because npm ci timed out.
+
+The supplied Magix reference artwork is preserved; no replacement generic cleaning products were used in the logo animation.

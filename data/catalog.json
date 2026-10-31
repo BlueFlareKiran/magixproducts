@@ -1,0 +1,1182 @@
+[
+  {
+    "id": "catalog-3-1-1",
+    "name": "Plastic Clip Mop",
+    "category": "Mops",
+    "code": "999",
+    "price": null,
+    "image": "/products/p03-1-1.webp",
+    "active": 1,
+    "page": 3
+  },
+  {
+    "id": "catalog-3-1-2",
+    "name": "Plastic Clip Mop Industrial",
+    "category": "Mops",
+    "code": "423",
+    "price": null,
+    "image": "/products/p03-1-2.webp",
+    "active": 1,
+    "page": 3
+  },
+  {
+    "id": "catalog-3-1-3",
+    "name": "Plastic Clip Mop Colour",
+    "category": "Mops",
+    "code": "429",
+    "price": null,
+    "image": "/products/p03-1-3.webp",
+    "active": 1,
+    "page": 3
+  },
+  {
+    "id": "catalog-3-2-1",
+    "name": "Plastic Clip Mop Microfiber",
+    "category": "Mops",
+    "code": "997",
+    "price": null,
+    "image": "/products/p03-2-1.webp",
+    "active": 1,
+    "page": 3
+  },
+  {
+    "id": "catalog-3-2-2",
+    "name": "Galaxy Plastic Clip Mop Colour",
+    "category": "Mops",
+    "code": "989",
+    "price": null,
+    "image": "/products/p03-2-2.webp",
+    "active": 1,
+    "page": 3
+  },
+  {
+    "id": "catalog-3-2-3",
+    "name": "Galaxy Plastic Clip Mop White",
+    "category": "Mops",
+    "code": "987",
+    "price": null,
+    "image": "/products/p03-2-3.webp",
+    "active": 1,
+    "page": 3
+  },
+  {
+    "id": "catalog-4-1-1",
+    "name": "Smart Clip Mop",
+    "category": "Mops",
+    "code": "998",
+    "price": null,
+    "image": "/products/p04-1-1.webp",
+    "active": 1,
+    "page": 4
+  },
+  {
+    "id": "catalog-4-1-2",
+    "name": "Safai Clip Mop",
+    "category": "Mops",
+    "code": "099",
+    "price": null,
+    "image": "/products/p04-1-2.webp",
+    "active": 1,
+    "page": 4
+  },
+  {
+    "id": "catalog-4-1-3",
+    "name": "Maharaja Clip Mop",
+    "category": "Mops",
+    "code": "033",
+    "price": null,
+    "image": "/products/p04-1-3.webp",
+    "active": 1,
+    "page": 4
+  },
+  {
+    "id": "catalog-4-2-1",
+    "name": "Plastic Clip Mop Classic",
+    "category": "Mops",
+    "code": "123",
+    "price": null,
+    "image": "/products/p04-2-1.webp",
+    "active": 1,
+    "page": 4
+  },
+  {
+    "id": "catalog-4-2-2",
+    "name": "Plastic Clip Mop Economy",
+    "category": "Mops",
+    "code": "089",
+    "price": null,
+    "image": "/products/p04-2-2.webp",
+    "active": 1,
+    "page": 4
+  },
+  {
+    "id": "catalog-4-2-3",
+    "name": "Maxi Thread Mop",
+    "category": "Mops",
+    "code": "777",
+    "price": null,
+    "image": "/products/p04-2-3.webp",
+    "active": 1,
+    "page": 4
+  },
+  {
+    "id": "catalog-5-1-1",
+    "name": "Magix Round Mop",
+    "category": "Mops",
+    "code": "419",
+    "price": null,
+    "image": "/products/p05-1-1.webp",
+    "active": 1,
+    "page": 5
+  },
+  {
+    "id": "catalog-5-1-2",
+    "name": "UK Mop",
+    "category": "Mops",
+    "code": "408",
+    "price": null,
+    "image": "/products/p05-1-2.webp",
+    "active": 1,
+    "page": 5
+  },
+  {
+    "id": "catalog-5-1-3",
+    "name": "Magix Steel Round Mop",
+    "category": "Mops",
+    "code": "424",
+    "price": null,
+    "image": "/products/p05-1-3.webp",
+    "active": 1,
+    "page": 5
+  },
+  {
+    "id": "catalog-5-2-1",
+    "name": "Industrial Round Mop",
+    "category": "Mops",
+    "code": "012",
+    "price": null,
+    "image": "/products/p05-2-1.webp",
+    "active": 1,
+    "page": 5
+  },
+  {
+    "id": "catalog-5-2-2",
+    "name": "Industrial Mop Small",
+    "category": "Mops",
+    "code": "408",
+    "price": null,
+    "image": "/products/p05-2-2.webp",
+    "active": 1,
+    "page": 5
+  },
+  {
+    "id": "catalog-5-2-3",
+    "name": "Deck Mop",
+    "category": "Mops",
+    "code": "409",
+    "price": null,
+    "image": "/products/p05-2-3.webp",
+    "active": 1,
+    "page": 5
+  },
+  {
+    "id": "catalog-5-2-4",
+    "name": "Magix King Mop",
+    "category": "Mops",
+    "code": "428",
+    "price": null,
+    "image": "/products/p05-2-4.webp",
+    "active": 1,
+    "page": 5
+  },
+  {
+    "id": "catalog-6-1-1",
+    "name": "Magix Grass Broom",
+    "category": "Grass Brooms",
+    "code": "116",
+    "price": null,
+    "image": "/products/p06-1-1.webp",
+    "active": 1,
+    "page": 6
+  },
+  {
+    "id": "catalog-6-1-2",
+    "name": "Steel Pipe Grass Broom",
+    "category": "Grass Brooms",
+    "code": "004",
+    "price": null,
+    "image": "/products/p06-1-2.webp",
+    "active": 1,
+    "page": 6
+  },
+  {
+    "id": "catalog-6-1-3",
+    "name": "Double Grass Broom",
+    "category": "Grass Brooms",
+    "code": "105",
+    "price": null,
+    "image": "/products/p06-1-3.webp",
+    "active": 1,
+    "page": 6
+  },
+  {
+    "id": "catalog-6-1-4",
+    "name": "Trishul Grass Broom",
+    "category": "Grass Brooms",
+    "code": "109",
+    "price": null,
+    "image": "/products/p06-1-4.webp",
+    "active": 1,
+    "page": 6
+  },
+  {
+    "id": "catalog-7-1-1",
+    "name": "Makai Gold Grass Broom",
+    "category": "Grass Brooms",
+    "code": "103",
+    "price": null,
+    "image": "/products/p07-1-1.webp",
+    "active": 1,
+    "page": 7
+  },
+  {
+    "id": "catalog-7-1-2",
+    "name": "Steel Pipe Gold Grass Broom",
+    "category": "Grass Brooms",
+    "code": "103",
+    "price": null,
+    "image": "/products/p07-1-2.webp",
+    "active": 1,
+    "page": 7
+  },
+  {
+    "id": "catalog-7-1-3",
+    "name": "Makai Grass Broom",
+    "category": "Grass Brooms",
+    "code": "107",
+    "price": null,
+    "image": "/products/p07-1-3.webp",
+    "active": 1,
+    "page": 7
+  },
+  {
+    "id": "catalog-7-1-4",
+    "name": "Magix Chrome Broom",
+    "category": "Grass Brooms",
+    "code": "117",
+    "price": null,
+    "image": "/products/p07-1-4.webp",
+    "active": 1,
+    "page": 7
+  },
+  {
+    "id": "catalog-8-1-1",
+    "name": "Plastic Broom",
+    "category": "Kharata Brooms",
+    "code": "666",
+    "price": null,
+    "image": "/products/p08-1-1.webp",
+    "active": 1,
+    "page": 8
+  },
+  {
+    "id": "catalog-8-1-2",
+    "name": "Smart Broom",
+    "category": "Kharata Brooms",
+    "code": "667",
+    "price": null,
+    "image": "/products/p08-1-2.webp",
+    "active": 1,
+    "page": 8
+  },
+  {
+    "id": "catalog-8-1-3",
+    "name": "Fiber Broom",
+    "category": "Kharata Brooms",
+    "code": "668",
+    "price": null,
+    "image": "/products/p08-1-3.webp",
+    "active": 1,
+    "page": 8
+  },
+  {
+    "id": "catalog-8-1-4",
+    "name": "Super Kharata",
+    "category": "Kharata Brooms",
+    "code": "677",
+    "price": null,
+    "image": "/products/p08-1-4.webp",
+    "active": 1,
+    "page": 8
+  },
+  {
+    "id": "catalog-8-1-5",
+    "name": "Sunami Kharata Broom",
+    "category": "Kharata Brooms",
+    "code": "669",
+    "price": null,
+    "image": "/products/p08-1-5.webp",
+    "active": 1,
+    "page": 8
+  },
+  {
+    "id": "catalog-8-1-6",
+    "name": "Jumbo Kharata",
+    "category": "Kharata Brooms",
+    "code": "036",
+    "price": null,
+    "image": "/products/p08-1-6.webp",
+    "active": 1,
+    "page": 8
+  },
+  {
+    "id": "catalog-9-1-1",
+    "name": "Dust Free Broom",
+    "category": "Ceiling Brooms",
+    "code": "098",
+    "price": null,
+    "image": "/products/p09-1-1.webp",
+    "active": 1,
+    "page": 9
+  },
+  {
+    "id": "catalog-9-2-1",
+    "name": "Ceiling Broom Big",
+    "category": "Ceiling Brooms",
+    "code": "675",
+    "price": null,
+    "image": "/products/p09-2-1.webp",
+    "active": 1,
+    "page": 9
+  },
+  {
+    "id": "catalog-9-2-2",
+    "name": "V. Ceiling Broom Modern",
+    "category": "Ceiling Brooms",
+    "code": "561",
+    "price": null,
+    "image": "/products/p09-2-2.webp",
+    "active": 1,
+    "page": 9
+  },
+  {
+    "id": "catalog-9-2-3",
+    "name": "V. Ceiling Broom Classic",
+    "category": "Ceiling Brooms",
+    "code": "559",
+    "price": null,
+    "image": "/products/p09-2-3.webp",
+    "active": 1,
+    "page": 9
+  },
+  {
+    "id": "catalog-9-2-4",
+    "name": "Ceiling Broom Round",
+    "category": "Ceiling Brooms",
+    "code": "674",
+    "price": null,
+    "image": "/products/p09-2-4.webp",
+    "active": 1,
+    "page": 9
+  },
+  {
+    "id": "catalog-9-2-5",
+    "name": "Garden Broom",
+    "category": "Ceiling Brooms",
+    "code": "560",
+    "price": null,
+    "image": "/products/p09-2-5.webp",
+    "active": 1,
+    "page": 9
+  },
+  {
+    "id": "catalog-10-1-1",
+    "name": "Brito Bathroom Wiper",
+    "category": "Floor Wipers",
+    "code": "201",
+    "price": null,
+    "image": "/products/p10-1-1.webp",
+    "active": 1,
+    "page": 10
+  },
+  {
+    "id": "catalog-10-1-2",
+    "name": "Aristo Floor Wiper",
+    "category": "Floor Wipers",
+    "code": "202",
+    "price": null,
+    "image": "/products/p10-1-2.webp",
+    "active": 1,
+    "page": 10
+  },
+  {
+    "id": "catalog-10-1-3",
+    "name": "Magix Floor Wiper",
+    "category": "Floor Wipers",
+    "code": "214",
+    "price": null,
+    "image": "/products/p10-1-3.webp",
+    "active": 1,
+    "page": 10
+  },
+  {
+    "id": "catalog-10-2-1",
+    "name": "Magix Classic Wiper",
+    "category": "Floor Wipers",
+    "code": "215",
+    "price": null,
+    "image": "/products/p10-2-1.webp",
+    "active": 1,
+    "page": 10
+  },
+  {
+    "id": "catalog-10-2-2",
+    "name": "Mayur Floor Wiper",
+    "category": "Floor Wipers",
+    "code": "209",
+    "price": null,
+    "image": "/products/p10-2-2.webp",
+    "active": 1,
+    "page": 10
+  },
+  {
+    "id": "catalog-10-2-3",
+    "name": "Yes Floor Wiper",
+    "category": "Floor Wipers",
+    "code": "210",
+    "price": null,
+    "image": "/products/p10-2-3.webp",
+    "active": 1,
+    "page": 10
+  },
+  {
+    "id": "catalog-11-1-1",
+    "name": "Maid Wiper",
+    "category": "Floor Wipers",
+    "code": "217",
+    "price": null,
+    "image": "/products/p11-1-1.webp",
+    "active": 1,
+    "page": 11
+  },
+  {
+    "id": "catalog-11-1-2",
+    "name": "Super Maid Wiper",
+    "category": "Floor Wipers",
+    "code": "670",
+    "price": null,
+    "image": "/products/p11-1-2.webp",
+    "active": 1,
+    "page": 11
+  },
+  {
+    "id": "catalog-11-1-3",
+    "name": "Max Wiper",
+    "category": "Floor Wipers",
+    "code": "090",
+    "price": null,
+    "image": "/products/p11-1-3.webp",
+    "active": 1,
+    "page": 11
+  },
+  {
+    "id": "catalog-11-2-1",
+    "name": "Industrial Wiper",
+    "category": "Floor Wipers",
+    "code": "212",
+    "price": null,
+    "image": "/products/p11-2-1.webp",
+    "active": 1,
+    "page": 11
+  },
+  {
+    "id": "catalog-11-2-2",
+    "name": "Speedy Wiper",
+    "category": "Floor Wipers",
+    "code": "670",
+    "price": null,
+    "image": "/products/p11-2-2.webp",
+    "active": 1,
+    "page": 11
+  },
+  {
+    "id": "catalog-11-2-3",
+    "name": "Thunder Bird Wiper",
+    "category": "Floor Wipers",
+    "code": "204",
+    "price": null,
+    "image": "/products/p11-2-3.webp",
+    "active": 1,
+    "page": 11
+  },
+  {
+    "id": "catalog-12-1-1",
+    "name": "Jumbo Double Hockey Brush Virgin",
+    "category": "Toilet Brushes",
+    "code": "322",
+    "price": null,
+    "image": "/products/p12-1-1.webp",
+    "active": 1,
+    "page": 12
+  },
+  {
+    "id": "catalog-12-1-2",
+    "name": "Double Hockey Brush Virgin",
+    "category": "Toilet Brushes",
+    "code": "317",
+    "price": null,
+    "image": "/products/p12-1-2.webp",
+    "active": 1,
+    "page": 12
+  },
+  {
+    "id": "catalog-12-2-1",
+    "name": "Double Hockey Brush Modern",
+    "category": "Toilet Brushes",
+    "code": "311",
+    "price": null,
+    "image": "/products/p12-2-1.webp",
+    "active": 1,
+    "page": 12
+  },
+  {
+    "id": "catalog-12-2-2",
+    "name": "Double Hockey Brush",
+    "category": "Toilet Brushes",
+    "code": "305",
+    "price": null,
+    "image": "/products/p12-2-2.webp",
+    "active": 1,
+    "page": 12
+  },
+  {
+    "id": "catalog-12-2-3",
+    "name": "Hero Double Hockey Brush",
+    "category": "Toilet Brushes",
+    "code": "319",
+    "price": null,
+    "image": "/products/p12-2-3.webp",
+    "active": 1,
+    "page": 12
+  },
+  {
+    "id": "catalog-13-1-1",
+    "name": "Machoo Hockey Brush",
+    "category": "Toilet Brushes",
+    "code": "307",
+    "price": null,
+    "image": "/products/p13-1-1.webp",
+    "active": 1,
+    "page": 13
+  },
+  {
+    "id": "catalog-13-1-2",
+    "name": "Hero Toilet Brush",
+    "category": "Toilet Brushes",
+    "code": "309",
+    "price": null,
+    "image": "/products/p13-1-2.webp",
+    "active": 1,
+    "page": 13
+  },
+  {
+    "id": "catalog-13-1-3",
+    "name": "Single Hockey Brush",
+    "category": "Toilet Brushes",
+    "code": "301",
+    "price": null,
+    "image": "/products/p13-1-3.webp",
+    "active": 1,
+    "page": 13
+  },
+  {
+    "id": "catalog-13-2-1",
+    "name": "Toilet Brush Round Jumbo",
+    "category": "Toilet Brushes",
+    "code": "318",
+    "price": null,
+    "image": "/products/p13-2-1.webp",
+    "active": 1,
+    "page": 13
+  },
+  {
+    "id": "catalog-13-2-2",
+    "name": "Toilet Brush Round Modern",
+    "category": "Toilet Brushes",
+    "code": "320",
+    "price": null,
+    "image": "/products/p13-2-2.webp",
+    "active": 1,
+    "page": 13
+  },
+  {
+    "id": "catalog-13-2-3",
+    "name": "Toilet Brush Round",
+    "category": "Toilet Brushes",
+    "code": "302",
+    "price": null,
+    "image": "/products/p13-2-3.webp",
+    "active": 1,
+    "page": 13
+  },
+  {
+    "id": "catalog-14-1-1",
+    "name": "Softy Cloth Brush Big",
+    "category": "Miscellaneous",
+    "code": "512",
+    "price": null,
+    "image": "/products/p14-1-1.webp",
+    "active": 1,
+    "page": 14
+  },
+  {
+    "id": "catalog-14-1-2",
+    "name": "Tiger Softy Cloth Brush Big",
+    "category": "Miscellaneous",
+    "code": "915",
+    "price": null,
+    "image": "/products/p14-1-2.webp",
+    "active": 1,
+    "page": 14
+  },
+  {
+    "id": "catalog-14-1-3",
+    "name": "Tiger Softy Cloth Brush Small",
+    "category": "Miscellaneous",
+    "code": "510",
+    "price": null,
+    "image": "/products/p14-1-3.webp",
+    "active": 1,
+    "page": 14
+  },
+  {
+    "id": "catalog-14-1-4",
+    "name": "Floor Brush Oval",
+    "category": "Miscellaneous",
+    "code": "504",
+    "price": null,
+    "image": "/products/p14-1-4.webp",
+    "active": 1,
+    "page": 14
+  },
+  {
+    "id": "catalog-14-1-5",
+    "name": "S Brush Classic",
+    "category": "Miscellaneous",
+    "code": "514",
+    "price": null,
+    "image": "/products/p14-1-5.webp",
+    "active": 1,
+    "page": 14
+  },
+  {
+    "id": "catalog-14-1-6",
+    "name": "Floor Brush Classic",
+    "category": "Miscellaneous",
+    "code": "515",
+    "price": null,
+    "image": "/products/p14-1-6.webp",
+    "active": 1,
+    "page": 14
+  },
+  {
+    "id": "catalog-14-2-1",
+    "name": "Dust Pan Colour",
+    "category": "Miscellaneous",
+    "code": "616",
+    "price": null,
+    "image": "/products/p14-2-1.webp",
+    "active": 1,
+    "page": 14
+  },
+  {
+    "id": "catalog-14-2-2",
+    "name": "Dust Pan Leaf",
+    "category": "Miscellaneous",
+    "code": "555",
+    "price": null,
+    "image": "/products/p14-2-2.webp",
+    "active": 1,
+    "page": 14
+  },
+  {
+    "id": "catalog-14-2-3",
+    "name": "Dust Pan Super",
+    "category": "Miscellaneous",
+    "code": "557",
+    "price": null,
+    "image": "/products/p14-2-3.webp",
+    "active": 1,
+    "page": 14
+  },
+  {
+    "id": "catalog-14-2-4",
+    "name": "Dust Clean Set Modern",
+    "category": "Miscellaneous",
+    "code": "816",
+    "price": null,
+    "image": "/products/p14-2-4.webp",
+    "active": 1,
+    "page": 14
+  },
+  {
+    "id": "catalog-15-1-1",
+    "name": "Navigator Brush",
+    "category": "Miscellaneous",
+    "code": "600",
+    "price": null,
+    "image": "/products/p15-1-1.webp",
+    "active": 1,
+    "page": 15
+  },
+  {
+    "id": "catalog-15-1-2",
+    "name": "Sink Brush Big",
+    "category": "Miscellaneous",
+    "code": "610",
+    "price": null,
+    "image": "/products/p15-1-2.webp",
+    "active": 1,
+    "page": 15
+  },
+  {
+    "id": "catalog-15-1-3",
+    "name": "Sink Brush",
+    "category": "Miscellaneous",
+    "code": "608",
+    "price": null,
+    "image": "/products/p15-1-3.webp",
+    "active": 1,
+    "page": 15
+  },
+  {
+    "id": "catalog-15-1-4",
+    "name": "Sink Big Square Brush",
+    "category": "Miscellaneous",
+    "code": "096",
+    "price": null,
+    "image": "/products/p15-1-4.webp",
+    "active": 1,
+    "page": 15
+  },
+  {
+    "id": "catalog-15-1-5",
+    "name": "Multy Brush",
+    "category": "Miscellaneous",
+    "code": "609",
+    "price": null,
+    "image": "/products/p15-1-5.webp",
+    "active": 1,
+    "page": 15
+  },
+  {
+    "id": "catalog-15-2-1",
+    "name": "Wash Basin Brush",
+    "category": "Miscellaneous",
+    "code": "600",
+    "price": null,
+    "image": "/products/p15-2-1.webp",
+    "active": 1,
+    "page": 15
+  },
+  {
+    "id": "catalog-15-2-2",
+    "name": "Carpet Brush Wooden",
+    "category": "Miscellaneous",
+    "code": "671",
+    "price": null,
+    "image": "/products/p15-2-2.webp",
+    "active": 1,
+    "page": 15
+  },
+  {
+    "id": "catalog-15-2-3",
+    "name": "Car Brush",
+    "category": "Miscellaneous",
+    "code": "673",
+    "price": null,
+    "image": "/products/p15-2-3.webp",
+    "active": 1,
+    "page": 15
+  },
+  {
+    "id": "catalog-15-2-4",
+    "name": "Car Brush New",
+    "category": "Miscellaneous",
+    "code": "672",
+    "price": null,
+    "image": "/products/p15-2-4.webp",
+    "active": 1,
+    "page": 15
+  },
+  {
+    "id": "catalog-15-2-5",
+    "name": "Car Brush Long",
+    "category": "Miscellaneous",
+    "code": "659",
+    "price": null,
+    "image": "/products/p15-2-5.webp",
+    "active": 1,
+    "page": 15
+  },
+  {
+    "id": "catalog-15-3-1",
+    "name": "Tiles Brush",
+    "category": "Miscellaneous",
+    "code": "507",
+    "price": null,
+    "image": "/products/p15-3-1.webp",
+    "active": 1,
+    "page": 15
+  },
+  {
+    "id": "catalog-15-3-2",
+    "name": "Tiles Brush Modern",
+    "category": "Miscellaneous",
+    "code": "506",
+    "price": null,
+    "image": "/products/p15-3-2.webp",
+    "active": 1,
+    "page": 15
+  },
+  {
+    "id": "catalog-15-3-3",
+    "name": "Sink Brush Round",
+    "category": "Miscellaneous",
+    "code": "608",
+    "price": null,
+    "image": "/products/p15-3-3.webp",
+    "active": 1,
+    "page": 15
+  },
+  {
+    "id": "catalog-15-3-4",
+    "name": "Scour Bright Handle",
+    "category": "Miscellaneous",
+    "code": "686",
+    "price": null,
+    "image": "/products/p15-3-4.webp",
+    "active": 1,
+    "page": 15
+  },
+  {
+    "id": "catalog-16-1-1",
+    "name": "Round Toilet Brush With Container",
+    "category": "Miscellaneous",
+    "code": "315",
+    "price": null,
+    "image": "/products/p16-1-1.webp",
+    "active": 1,
+    "page": 16
+  },
+  {
+    "id": "catalog-16-1-2",
+    "name": "Magix Toilet Brush With Container",
+    "category": "Miscellaneous",
+    "code": "027",
+    "price": null,
+    "image": "/products/p16-1-2.webp",
+    "active": 1,
+    "page": 16
+  },
+  {
+    "id": "catalog-16-1-3",
+    "name": "Double Hockey Brush With Container",
+    "category": "Miscellaneous",
+    "code": "314",
+    "price": null,
+    "image": "/products/p16-1-3.webp",
+    "active": 1,
+    "page": 16
+  },
+  {
+    "id": "catalog-16-1-4",
+    "name": "Single Hockey Brush With Container",
+    "category": "Miscellaneous",
+    "code": "315",
+    "price": null,
+    "image": "/products/p16-1-4.webp",
+    "active": 1,
+    "page": 16
+  },
+  {
+    "id": "catalog-16-2-1",
+    "name": "Hard Broom",
+    "category": "Miscellaneous",
+    "code": "415",
+    "price": null,
+    "image": "/products/p16-2-1.webp",
+    "active": 1,
+    "page": 16
+  },
+  {
+    "id": "catalog-16-2-2",
+    "name": "Mini Hardy Mop",
+    "category": "Miscellaneous",
+    "code": "095",
+    "price": null,
+    "image": "/products/p16-2-2.webp",
+    "active": 1,
+    "page": 16
+  },
+  {
+    "id": "catalog-16-3-1",
+    "name": "Bathroom Hardy Long",
+    "category": "Miscellaneous",
+    "code": "097",
+    "price": null,
+    "image": "/products/p16-3-1.webp",
+    "active": 1,
+    "page": 16
+  },
+  {
+    "id": "catalog-16-3-2",
+    "name": "Push Broom - Soft",
+    "category": "Miscellaneous",
+    "code": "414",
+    "price": null,
+    "image": "/products/p16-3-2.webp",
+    "active": 1,
+    "page": 16
+  },
+  {
+    "id": "catalog-17-1-1",
+    "name": "Kiwi Kitchen Moppy",
+    "category": "Miscellaneous",
+    "code": "052",
+    "price": null,
+    "image": "/products/p17-1-1.webp",
+    "active": 1,
+    "page": 17
+  },
+  {
+    "id": "catalog-17-1-2",
+    "name": "Kitchen Moppy",
+    "category": "Miscellaneous",
+    "code": "606",
+    "price": null,
+    "image": "/products/p17-1-2.webp",
+    "active": 1,
+    "page": 17
+  },
+  {
+    "id": "catalog-17-1-3",
+    "name": "Cherry Kitchen Moppy",
+    "category": "Miscellaneous",
+    "code": "622",
+    "price": null,
+    "image": "/products/p17-1-3.webp",
+    "active": 1,
+    "page": 17
+  },
+  {
+    "id": "catalog-17-1-4",
+    "name": "Zen Glass Moppy",
+    "category": "Miscellaneous",
+    "code": "622",
+    "price": null,
+    "image": "/products/p17-1-4.webp",
+    "active": 1,
+    "page": 17
+  },
+  {
+    "id": "catalog-17-2-1",
+    "name": "Steel Scrubber",
+    "category": "Miscellaneous",
+    "code": "615",
+    "price": null,
+    "image": "/products/p17-2-1.webp",
+    "active": 1,
+    "page": 17
+  },
+  {
+    "id": "catalog-17-2-2",
+    "name": "Magix Perfume Deodorant",
+    "category": "Miscellaneous",
+    "code": "901",
+    "price": null,
+    "image": "/products/p17-2-2.webp",
+    "active": 1,
+    "page": 17
+  },
+  {
+    "id": "catalog-17-3-1",
+    "name": "Vaccumm Plunger",
+    "category": "Miscellaneous",
+    "code": "149",
+    "price": null,
+    "image": "/products/p17-3-1.webp",
+    "active": 1,
+    "page": 17
+  },
+  {
+    "id": "catalog-17-3-2",
+    "name": "Rubber Plunger Big",
+    "category": "Miscellaneous",
+    "code": "613",
+    "price": null,
+    "image": "/products/p17-3-2.webp",
+    "active": 1,
+    "page": 17
+  },
+  {
+    "id": "catalog-17-3-3",
+    "name": "Rubber Plunger Medium",
+    "category": "Miscellaneous",
+    "code": "612",
+    "price": null,
+    "image": "/products/p17-3-3.webp",
+    "active": 1,
+    "page": 17
+  },
+  {
+    "id": "catalog-17-3-4",
+    "name": "Bottle Brush With Sponge",
+    "category": "Miscellaneous",
+    "code": "111",
+    "price": null,
+    "image": "/products/p17-3-4.webp",
+    "active": 1,
+    "page": 17
+  },
+  {
+    "id": "catalog-17-3-5",
+    "name": "Bottle Brush Jar Brush",
+    "category": "Miscellaneous",
+    "code": "619",
+    "price": null,
+    "image": "/products/p17-3-5.webp",
+    "active": 1,
+    "page": 17
+  },
+  {
+    "id": "catalog-18-1-1",
+    "name": "Kitchen Scrubber Gold",
+    "category": "Miscellaneous",
+    "code": "624",
+    "price": null,
+    "image": "/products/p18-1-1.webp",
+    "active": 1,
+    "page": 18
+  },
+  {
+    "id": "catalog-18-1-2",
+    "name": "Magix Kitchen Wipe",
+    "category": "Miscellaneous",
+    "code": "607",
+    "price": null,
+    "image": "/products/p18-1-2.webp",
+    "active": 1,
+    "page": 18
+  },
+  {
+    "id": "catalog-18-1-3",
+    "name": "Cap Duster",
+    "category": "Miscellaneous",
+    "code": "914",
+    "price": null,
+    "image": "/products/p18-1-3.webp",
+    "active": 1,
+    "page": 18
+  },
+  {
+    "id": "catalog-18-2-1",
+    "name": "Plastic Clip Mop Industrial Refill",
+    "category": "Miscellaneous",
+    "code": "009",
+    "price": null,
+    "image": "/products/p18-2-1.webp",
+    "active": 1,
+    "page": 18
+  },
+  {
+    "id": "catalog-18-2-2",
+    "name": "Plastic Clip Mop Color Refill",
+    "category": "Miscellaneous",
+    "code": "009",
+    "price": null,
+    "image": "/products/p18-2-2.webp",
+    "active": 1,
+    "page": 18
+  },
+  {
+    "id": "catalog-18-2-3",
+    "name": "Plastic Clip Mop Refill",
+    "category": "Miscellaneous",
+    "code": "009",
+    "price": null,
+    "image": "/products/p18-2-3.webp",
+    "active": 1,
+    "page": 18
+  },
+  {
+    "id": "catalog-18-3-1",
+    "name": "Checks Cloth",
+    "category": "Miscellaneous",
+    "code": "900",
+    "price": null,
+    "image": "/products/p18-3-1.webp",
+    "active": 1,
+    "page": 18
+  },
+  {
+    "id": "catalog-18-3-2",
+    "name": "Duster Cloth",
+    "category": "Miscellaneous",
+    "code": "906",
+    "price": null,
+    "image": "/products/p18-3-2.webp",
+    "active": 1,
+    "page": 18
+  },
+  {
+    "id": "catalog-19-1-1",
+    "name": "Dry Mop - 18\"",
+    "category": "Miscellaneous",
+    "code": "412",
+    "price": null,
+    "image": "/products/p19-1-1.webp",
+    "active": 1,
+    "page": 19
+  },
+  {
+    "id": "catalog-19-1-2",
+    "name": "Dry Mop Long - 24\"",
+    "category": "Miscellaneous",
+    "code": "417",
+    "price": null,
+    "image": "/products/p19-1-2.webp",
+    "active": 1,
+    "page": 19
+  },
+  {
+    "id": "catalog-19-1-3",
+    "name": "Twist Mop Dori",
+    "category": "Miscellaneous",
+    "code": "016",
+    "price": null,
+    "image": "/products/p19-1-3.webp",
+    "active": 1,
+    "page": 19
+  },
+  {
+    "id": "catalog-19-2-1",
+    "name": "Magix Bucket Mop",
+    "category": "Miscellaneous",
+    "code": "041",
+    "price": null,
+    "image": "/products/p19-2-1.webp",
+    "active": 1,
+    "page": 19
+  },
+  {
+    "id": "catalog-17-deodorant",
+    "name": "Magix Black Deodorant 450 ml",
+    "category": "Miscellaneous",
+    "code": "",
+    "price": null,
+    "image": "/products/p17-2-3.webp",
+    "active": 1,
+    "page": 17
+  }
+]
