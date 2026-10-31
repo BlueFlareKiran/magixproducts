@@ -31,7 +31,7 @@ test('explore hero product popup displays the original MAKAI GOLD packaging',asy
 test('the extended home carousel adds item 429 and supplied Karnataka promotion without replacing original slides',async()=>{
   assert.match(source,/aria-label="1 of 4: The Magix collection"/);
   assert.match(source,/aria-label="3 of 4: Our hero broom"/);
-  assert.match(source,/magix-approved-quality-slide\.png/);
+  assert.doesNotMatch(source,/magix-approved-image-slide/); // no separate full-width poster masking native carousel
   const mop=source.split('aria-label="4 of 4: Plastic Clip Mop Colour"')[1].split('{broomOpen&&')[0];
   assert.match(mop,/Plastic Clip/);
   assert.match(mop,/Mop Colour/);
@@ -43,9 +43,9 @@ test('the extended home carousel adds item 429 and supplied Karnataka promotion 
   assert.doesNotMatch(mop,/<img\b/); // do not float a catalogue product cutout over living-room photography
   const quality=source.split('aria-label="2 of 4: Magix quality and trust"')[1].split('aria-label="3 of 4: Our hero broom"')[0];
   assert.match(source,/className="shell premium-hero-grid hero-slide quality-slide refined-trust-slide"/);
-  assert.match(quality,/WE MEAN<br\/><em>TRUST\./);
-  assert.match(quality,/WE JUST DON’T MEAN CLEAN/);
-  assert.match(quality,/WE MEAN <em>TRUST<\/em> ALSO/);
+  assert.match(quality,/We mean<br\/><em>trust\./);
+  assert.match(quality,/We just don’t mean clean/);
+  assert.match(quality,/we mean trust also/);
   assert.match(quality,/First Company in/);
   assert.match(quality,/KARNATAKA/);
   assert.match(quality,/ISO 9001:2015/);
@@ -95,7 +95,7 @@ test('certification is slide two, broom slide three and mop slide four with a ph
 test('refined trust slide uses small inline icons and keeps the source certificate accessible',async()=>{
   const quality=source.split('aria-label="2 of 4: Magix quality and trust"')[1].split('aria-label="3 of 4: Our hero broom"')[0];
   assert.match(quality,/MAGIX QUALITY PROMISE/);
-  assert.match(quality,/WE MEAN<br\/><em>TRUST\./);
+  assert.match(quality,/We mean<br\/><em>trust\./);
   assert.match(quality,/First Company in/);
   assert.match(quality,/KARNATAKA/);
   assert.match(quality,/refined-tiny-benefit/);
@@ -107,5 +107,8 @@ test('refined trust slide uses small inline icons and keeps the source certifica
   const cert=await readFile(path.join(root,'public/Magix_ISO_9001_2015_Certificate.pdf'));
   assert.ok(cert.length>50000);
   assert.match(css,/ISO \+ Karnataka hero/);
-  assert.match(css,/width:clamp\(48px,4\.15vw,64px\)/);
+  assert.match(css,/grid-template-columns:repeat\(2,minmax\(0,1fr\)\)/);
+  assert.match(css,/Harmonized ISO slide/);
+  assert.doesNotMatch(css,/\.refined-trust-slide \{ display:none !important;/);
+  assert.doesNotMatch(css,/\.slideshow-footer \{ display:none !important;/);
 });

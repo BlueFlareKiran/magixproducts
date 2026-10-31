@@ -81,27 +81,13 @@ function HomeHero(){
  <div className="premium-copy"><span className="hero-eyebrow"><i/> EVERYDAY SPACES. EXTRAORDINARY CARE.</span><h1>A little care.<br/>A beautifully<br/><em>clean home.</em></h1><p>Thoughtful cleaning essentials for every room, every corner, and everything life leaves behind.</p><div className="hero-actions"><Link href="/products" className="button premium-primary">Explore the collection <ArrowUpRight size={19}/></Link><Link href="/about" className="quiet-link">Meet Magix <ArrowRight size={17}/></Link></div><div className="hero-proof"><span><strong>32+</strong> years of know-how</span><span><strong>7</strong> ways to a better clean</span><span className="hero-origin">BENGALURU ROOTS.<br/>EVERYDAY PURPOSE.</span></div></div>
  <div className="premium-visual"><div className="orbit orbit-one"/><div className="orbit orbit-two"/><div className="emblem-stage"><img className="premium-spokes" src="/brand/magix-tools-ring.png" alt="Magix collection of mops, brooms, brushes and wipers" fetchPriority="high"/><img className="premium-cloud" src="/brand/magix-cloud-r.png" alt="Magix — We Mean Clean"/></div><div className="emblem-caption"><p>We Mean Clean</p><span>MOP-BRUSH-BROOM-WIPER</span></div></div>
  </div>
- <div className="magix-approved-image-slide" hidden={active!==1} role="group" aria-roledescription="slide" aria-label="2 of 4: Magix quality and trust, approved visual artwork">
-  <img className="magix-approved-slide-art" src="/brand/magix-approved-quality-slide.png" width="1594" height="883" alt="Approved Magix quality slide: WE MEAN TRUST, ISO 9001:2015 certified emblem over the indoor plant, and the First Company in KARNATAKA promotional message beneath, with four colorful benefits." />
-  <Link className="magix-approved-hit magix-approved-story" href="/about#magix-certification" aria-label="Explore our quality story"><span className="visually-hidden">Explore our quality story</span></Link>
-  <a className="magix-approved-hit magix-approved-certificate" href="/Magix_ISO_9001_2015_Certificate.pdf" target="_blank" rel="noopener noreferrer" aria-label="View the Magix ISO 9001:2015 certificate"><span className="visually-hidden">View ISO certificate</span></a>
-  <a className="magix-approved-hit magix-approved-iso" href="/Magix_ISO_9001_2015_Certificate.pdf" target="_blank" rel="noopener noreferrer" aria-label="View certificate represented by the ISO emblem"><span className="visually-hidden">View certificate</span></a>
-  <button type="button" className="magix-approved-hit magix-approved-previous" onClick={()=>go(active-1)} aria-label="Previous banner slide" />
-  <button type="button" className="magix-approved-hit magix-approved-dot magix-approved-dot-one" onClick={()=>go(0)} aria-label="Show slide 1" />
-  <button type="button" className="magix-approved-hit magix-approved-dot magix-approved-dot-two" onClick={()=>go(1)} aria-label="Show ISO certification slide" aria-current="true" />
-  <button type="button" className="magix-approved-hit magix-approved-dot magix-approved-dot-three" onClick={()=>go(2)} aria-label="Show hero broom slide" />
-  <button type="button" className="magix-approved-hit magix-approved-dot magix-approved-dot-four" onClick={()=>go(3)} aria-label="Show mop slide" />
- </div>
  <div className="shell premium-hero-grid hero-slide quality-slide refined-trust-slide" hidden={active!==1} role="group" aria-roledescription="slide" aria-label="2 of 4: Magix quality and trust">
   <div className="premium-copy quality-copy refined-trust-copy">
-   <span className="quality-eyebrow"><span className="quality-sparkle" aria-hidden="true">✦</span> MAGIX QUALITY PROMISE <span className="quality-small-dot"/> SINCE 1991</span>
-   <h2>WE MEAN<br/><em>TRUST.</em></h2>
+   <span className="hero-eyebrow"><i/> MAGIX QUALITY PROMISE · SINCE 1991</span>
+   <h2>We mean<br/><em>trust.</em></h2>
    <p className="quality-superline">Great cleaning starts with something bigger.</p>
-   <div className="quality-brush-message" aria-label="We just don’t mean Clean. We mean Trust also.">
-    <span>WE JUST DON’T MEAN CLEAN —</span>
-    <strong>WE MEAN <em>TRUST</em> ALSO.</strong>
-   </div>
-   <div className="quality-actions"><Link href="/about#magix-certification" className="button premium-primary">Explore our quality story <ArrowUpRight size={19}/></Link><a className="quality-certificate-link" href="/Magix_ISO_9001_2015_Certificate.pdf" target="_blank" rel="noopener noreferrer">View ISO certificate <ArrowUpRight size={17}/></a></div>
+   <p className="quality-statement">We just don’t mean clean — <strong>we mean trust also.</strong></p>
+   <div className="quality-actions"><Link href="/about#magix-certification" className="button premium-primary">Our quality story <ArrowUpRight size={19}/></Link><a className="quality-certificate-link" href="/Magix_ISO_9001_2015_Certificate.pdf" target="_blank" rel="noopener noreferrer">View certificate <ArrowUpRight size={17}/></a></div>
   </div>
   <div className="refined-trust-visual" aria-label="Magix ISO 9001:2015 certification and four cleaning commitments">
    <div className="refined-cert-header">
