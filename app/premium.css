@@ -1290,3 +1290,107 @@ body{background:var(--canvas);color:var(--ink);-webkit-font-smoothing:antialiase
   box-shadow:none;
   border-color:var(--line);
 }
+
+
+/* --- Magix official brochure showcase: homepage CTA only --- */
+.catalogue-callout.magix-brochure{
+  position:relative;display:grid;grid-template-columns:minmax(0,1.13fr) minmax(300px,.87fr);
+  align-items:center;gap:20px;min-height:438px;max-width:100%;
+  margin-top:15px;margin-bottom:105px;padding:59px clamp(30px,5.3vw,80px);
+  overflow:hidden;isolation:isolate;border-radius:24px;
+  color:#fff;background:linear-gradient(116deg,#081d39 3%,#0e3875 58%,#1555a1 100%);
+  box-shadow:0 22px 60px rgba(9,31,63,.14);
+}
+.catalogue-callout.magix-brochure::before{
+  display:block;content:'';position:absolute;inset:0;z-index:0;pointer-events:none;
+  background:radial-gradient(circle at 79% 49%,rgba(103,165,249,.27),transparent 36%),
+   radial-gradient(circle at 4% 95%,rgba(24,99,203,.24),transparent 35%);
+  opacity:1;animation:none;
+}
+.catalogue-callout.magix-brochure::after{
+  content:'';position:absolute;right:-5%;bottom:-90%;width:670px;height:670px;border:1px solid rgba(255,255,255,.08);
+  border-radius:50%;background:none;pointer-events:none;z-index:0;animation:none;
+}
+.magix-brochure-copy{position:relative;z-index:2;max-width:680px;min-width:0}
+.magix-brochure-eyebrow{display:inline-flex;align-items:center;gap:10px;color:#c6daff;
+  font-size:10px;letter-spacing:.18em;font-weight:700;margin:0 0 20px}
+.magix-brochure-eyebrow svg{color:#ffdc63}
+.catalogue-callout.magix-brochure h2{font-size:clamp(36px,3.3vw,54px);font-weight:500;line-height:1.12;
+  letter-spacing:-.05em;margin:0 0 19px;max-width:660px;color:#fff}
+.catalogue-callout.magix-brochure h2 em{font-style:normal;color:#ffe072}
+.magix-brochure-copy>p{max-width:540px;font-size:14px;line-height:1.82;color:#c8d8ee;margin:0 0 28px}
+.magix-brochure-actions{display:flex;align-items:center;flex-wrap:wrap;gap:24px}
+.magix-brochure-download{display:flex;align-items:center;gap:13px;padding:13px 19px 13px 20px;
+  border-radius:13px;color:#112b4b;background:#ffe06c;text-decoration:none;min-height:66px;
+  box-shadow:0 10px 28px rgba(255,213,92,.22);transition:transform .25s,background .25s,box-shadow .25s}
+.magix-brochure-download:hover{background:#ffea95;transform:translateY(-3px);box-shadow:0 13px 30px rgba(255,213,92,.29)}
+.magix-brochure-download:focus-visible,.magix-brochure-preview:focus-visible,.magix-brochure-art:focus-visible{outline:3px solid #ffe06c;outline-offset:4px}
+.magix-brochure-download>span{display:flex;flex-direction:column;gap:4px;text-align:left}
+.magix-brochure-download strong{font-size:14px;font-weight:750;line-height:1.1}
+.magix-brochure-download small{color:#355471;font-size:10px;font-weight:500}
+.magix-brochure-download-arrow{margin-left:9px}
+.magix-brochure-preview{display:inline-flex;align-items:center;gap:8px;font-size:12px;color:#e9f1ff;
+  font-weight:650;border-bottom:1px solid rgba(225,237,255,.42);padding:10px 0;text-decoration:none;
+  transition:color .2s,border-color .2s}
+.magix-brochure-preview:hover{color:#ffdf6a;border-color:#ffdf6a}
+.magix-brochure-features{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:27px;
+  color:#a9c4e4;font-size:10px;letter-spacing:.01em}
+.magix-brochure-features span{display:inline-flex;align-items:center;gap:7px}
+.magix-brochure-features .magix-brochure-dot{width:3px;height:3px;background:#91b8e7;border-radius:50%}
+.magix-brochure-art{position:relative;z-index:1;display:block;justify-self:stretch;align-self:stretch;
+  min-height:315px;cursor:zoom-in}
+.magix-brochure-art-halo{position:absolute;width:390px;height:390px;max-width:100%;border-radius:50%;
+  background:radial-gradient(circle,rgba(138,185,244,.25) 1%,rgba(92,152,225,.08) 53%,transparent 74%);
+  left:53%;top:50%;transform:translate(-50%,-50%)}
+.magix-brochure-art-front,.magix-brochure-art-back{display:block;position:absolute;overflow:hidden;
+  border:1px solid rgba(255,255,255,.56);border-radius:3px;background:white;
+  box-shadow:0 20px 38px rgba(4,21,43,.30),5px 7px 0 rgba(255,255,255,.22);
+  transform-origin:center;transition:transform .35s ease}
+.magix-brochure-art-front{height:336px;width:238px;left:34%;top:50%;transform:translate(-50%,-50%) rotate(-9deg);z-index:2}
+.magix-brochure-art-back{height:302px;width:213px;left:72%;top:52%;transform:translate(-50%,-50%) rotate(8deg);z-index:1}
+.magix-brochure-art img{height:100%;width:100%;object-fit:cover;display:block}
+.magix-brochure-art:hover .magix-brochure-art-front{transform:translate(-50%,-54%) rotate(-5deg)}
+.magix-brochure-art:hover .magix-brochure-art-back{transform:translate(-50%,-49%) rotate(12deg)}
+.magix-brochure-stamp{position:absolute;z-index:3;right:-15px;top:4%;width:86px;height:86px;
+  border-radius:50%;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;
+  background:#ffe16a;color:#163453;border:5px solid #0c3c78;outline:2px solid #ffe16a;
+  box-shadow:0 8px 20px rgba(0,0,0,.23);transform:rotate(11deg);pointer-events:none}
+.magix-brochure-stamp>span{font-size:9px;letter-spacing:.13em;font-weight:800}
+.magix-brochure-stamp strong{font-size:17px;line-height:1.2;font-weight:900;letter-spacing:-.03em}
+.magix-brochure-stamp small{font-size:8px;letter-spacing:.12em;font-weight:700}
+@media(max-width:1050px){
+ .catalogue-callout.magix-brochure{gap:8px;padding:48px 35px;grid-template-columns:minmax(0,1.2fr) minmax(260px,.8fr)}
+ .magix-brochure-art-front{left:33%;width:200px;height:283px}
+ .magix-brochure-art-back{left:72%;width:180px;height:254px}
+ .magix-brochure-stamp{right:-7px;top:8%;width:70px;height:70px}
+ .magix-brochure-stamp strong{font-size:14px}
+}
+@media(max-width:760px){
+ .catalogue-callout.magix-brochure{grid-template-columns:1fr;padding:38px 25px 28px;
+    gap:4px;min-height:0;margin-bottom:75px;border-radius:18px}
+ .catalogue-callout.magix-brochure h2{font-size:clamp(35px,7.5vw,47px);margin-bottom:15px}
+ .magix-brochure-copy>p{font-size:13px;max-width:580px;margin-bottom:21px}
+ .magix-brochure-art{min-height:285px;max-width:430px;width:100%;margin:7px auto -7px}
+ .magix-brochure-art-front{left:37%;height:275px;width:194px}
+ .magix-brochure-art-back{left:68%;height:240px;width:170px}
+ .magix-brochure-stamp{right:5%;top:10%}
+}
+@media(max-width:420px){
+ .catalogue-callout.magix-brochure{padding:28px 20px 20px}
+ .magix-brochure-eyebrow{font-size:8px;letter-spacing:.12em}
+ .magix-brochure-actions{gap:9px}
+ .magix-brochure-download{width:100%;justify-content:center;gap:11px}
+ .magix-brochure-download-arrow{margin-left:auto}
+ .magix-brochure-preview{margin-top:2px}
+ .magix-brochure-features{margin-top:19px;gap:8px;font-size:9px}
+ .magix-brochure-art{min-height:240px;margin-top:10px}
+ .magix-brochure-art-front{height:229px;width:162px;left:34%}
+ .magix-brochure-art-back{height:208px;width:147px;left:70%}
+ .magix-brochure-stamp{width:62px;height:62px;right:0;top:9%;border-width:3px}
+ .magix-brochure-stamp strong{font-size:12px}
+ .magix-brochure-stamp>span{font-size:7px}
+ .magix-brochure-stamp small{font-size:6px}
+}
+@media(prefers-reduced-motion:reduce){
+ .magix-brochure-download,.magix-brochure-art-front,.magix-brochure-art-back{transition:none}
+}
